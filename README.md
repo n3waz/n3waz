@@ -18,7 +18,3 @@
 </div>
 
 <br/>
-
-## My Linkedin posts:
-- [CESAR School interview with Globo broadcaster](https://www.linkedin.com/posts/luankato_cesarschool-tecnologia-inovaaexaeto-activity-7180104530464817152-2P1v?utm_source=share&utm_medium=member_desktop)
-- [Figital Project about Smart Cities](https://www.linkedin.com/posts/luankato_desenvolvimento-inovacao-cesarschool-activity-7172134666898993152-udTE?utm_source=share&utm_medium=member_desktop)
